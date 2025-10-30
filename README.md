@@ -21,7 +21,6 @@ With a strong foundation in **statistical analysis**, **data visualization**, an
 | **Programming** | Python 🐍, SQL |
 | **Libraries** | Pandas, NumPy, Seaborn, Scikit-learn |
 | **Visualization** | Power BI, Looker |
-| **Data Engineering** | Snowflake, BigQuery, MS SQL Server |
 | **AI & ML** | Hugging Face, LangChain |
 | **Deployment** | Streamlit, Flask |
 | **Environment** | Jupyter, VS Code, GitHub |
