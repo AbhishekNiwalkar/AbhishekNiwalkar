@@ -30,7 +30,7 @@ With a strong foundation in **statistical analysis**, **data visualization**, an
 
 ## 📫 Let’s Connect  
 
-🌐 **LinkedIn:** [Abhishek Niwalkar](https://linkedin.com/in/your-linkedin)  
+🌐 **LinkedIn:** [Abhishek Niwalkar](https://www.linkedin.com/in/abhishek-niwalkar-408792231/)  
 📧 **Email:** [abhishekniwalkar@gmail.com](abhishekniwalkar@gmail.com)  
 
 ---
@@ -42,5 +42,5 @@ With a strong foundation in **statistical analysis**, **data visualization**, an
 📈 *Always learning. Always growing. Always data-driven.*  
 
 ---
-⭐ If you like my projects, don’t forget to **star this repo** and connect on [LinkedIn](https://linkedin.com/in/your-linkedin)!
+⭐ If you like my projects, don’t forget to **star this repo** and connect on [LinkedIn](https://www.linkedin.com/in/abhishek-niwalkar-408792231/)!
 
