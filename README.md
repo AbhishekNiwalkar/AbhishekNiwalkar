@@ -31,8 +31,8 @@ With a strong foundation in **statistical analysis**, **data visualization**, an
 
 ## 📫 Let’s Connect  
 
-🌐 **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
-📧 **Email:** [kasary778@gmail.com](mailto:kasary778@gmail.com)  
+🌐 **LinkedIn:** [Abhishek Niwalkar](https://linkedin.com/in/your-linkedin)  
+📧 **Email:** [abhishekniwalkar@gmail.com](abhishekniwalkar@gmail.com)  
 
 ---
 
