@@ -16,14 +16,14 @@ With a strong foundation in **statistical analysis**, **data visualization**, an
 
 ## 🧰 Tech Stack & Tools  
 
-| Domain | Tools & Technologies |
-|--------|----------------------|
-| **Programming** | Python 🐍, SQL |
-| **Libraries** | Pandas, NumPy, Seaborn, Scikit-learn |
-| **Visualization** | Power BI, Looker |
-| **AI & ML** | Hugging Face, LangChain |
-| **Deployment** | Streamlit, Flask |
-| **Environment** | Jupyter, VS Code, GitHub |
+
+## 🛠️ Skills
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -35,13 +35,6 @@ With a strong foundation in **statistical analysis**, **data visualization**, an
 
 ---
 
-## 🛠️ Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-3776AB?style=for-the-badge&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 ⭐ If you like my projects, don’t forget to **star this repo** and connect on [LinkedIn](https://www.linkedin.com/in/abhishek-niwalkar-408792231/)!
