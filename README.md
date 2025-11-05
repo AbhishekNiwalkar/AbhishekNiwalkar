@@ -35,11 +35,13 @@ With a strong foundation in **statistical analysis**, **data visualization**, an
 
 ---
 
-### ⚡ Fun Fact  
-
-> “Data tells a story — you just need to visualize it right.”  
-
-📈 *Always learning. Always growing. Always data-driven.*  
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-3776AB?style=for-the-badge&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 ⭐ If you like my projects, don’t forget to **star this repo** and connect on [LinkedIn](https://www.linkedin.com/in/abhishek-niwalkar-408792231/)!
