@@ -3,6 +3,13 @@
 🎯 *Data Science Enthusiast | Data-Driven Problem Solver | Business Intelligence Explorer*
 
 ---
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/AbhishekNiwalkar?v=1788069560462"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
 
 ## 👨‍💻 About Me  
 
