@@ -51,11 +51,11 @@
       "widgetId": "repositories",
       "name": "Repositories Widget",
       "position": {
-        "x": 16,
-        "y": 402
+        "x": 0,
+        "y": 373
       },
       "size": {
-        "width": 368,
+        "width": 524,
         "height": 256
       },
       "config": {
@@ -73,31 +73,14 @@
       "instanceId": "widget_1788071880477_2"
     },
     {
-      "widgetId": "footer",
-      "name": "Footer Widget",
-      "position": {
-        "x": 0,
-        "y": 698
-      },
-      "size": {
-        "width": 800,
-        "height": 50
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 5,
-      "instanceId": "widget_1788071880477_4"
-    },
-    {
       "widgetId": "stats",
       "name": "Stats Widget",
       "position": {
-        "x": 392,
-        "y": 578
+        "x": 416,
+        "y": 536
       },
       "size": {
-        "width": 392,
+        "width": 344,
         "height": 120
       },
       "config": {
@@ -118,12 +101,12 @@
       "widgetId": "languages",
       "name": "Languages Widget",
       "position": {
-        "x": 392,
-        "y": 418
+        "x": 416,
+        "y": 373
       },
       "size": {
-        "width": 392,
-        "height": 202
+        "width": 356,
+        "height": 176
       },
       "config": {
         "hideDecorations": true,
@@ -137,7 +120,8 @@
         "hideLangs": "Python,Power BI,Excel,Tableau",
         "langsLayout": "list",
         "animationType": "none",
-        "animationPreviewKey": 10
+        "animationPreviewKey": 10,
+        "langsCount": 4
       },
       "locked": false,
       "visible": true,
@@ -11649,48 +11633,41 @@
       "zIndex": 9
     },
     {
-      "instanceId": "widget_1788072904911",
-      "widgetId": "godprofile-marquee",
-      "name": "Godprofile-marquee Widget",
+      "instanceId": "widget_1788073399449",
+      "widgetId": "codeweb-showcase-cards",
+      "name": "Codeweb-showcase-cards Widget",
       "position": {
-        "x": 0,
-        "y": 764
+        "x": 20,
+        "y": 672
       },
       "size": {
-        "width": 800,
-        "height": 120
+        "width": 772,
+        "height": 208
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1788073430116",
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 0,
+        "y": 896
+      },
+      "size": {
+        "width": 780,
+        "height": 417
       },
       "config": {
-        "accentColor": "#b6a891",
-        "marqueeLangs": [
-          "python",
-          "git",
-          "py",
-          "mysql"
-        ]
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Header"
       },
       "locked": false,
       "visible": true,
       "zIndex": 8
-    },
-    {
-      "instanceId": "widget_1788073031186",
-      "widgetId": "godprofile-globe",
-      "name": "Godprofile-globe Widget",
-      "position": {
-        "x": 0,
-        "y": 900
-      },
-      "size": {
-        "width": 320,
-        "height": 350
-      },
-      "config": {
-        "accentColor": "#b6a891"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 9
     }
   ],
   "globalStyles": {
