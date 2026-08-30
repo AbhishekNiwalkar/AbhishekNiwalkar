@@ -1,4 +1,5 @@
 {
+  "username": "AbhishekNiwalkar",
   "widgets": [
     {
       "widgetId": "surveillance-header",
@@ -51,7 +52,9 @@
     "borderRadius": 9,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "rugbedbugg"
+    "templateStyle": "rugbedbugg",
+    "transparentBackground": true
   },
-  "templateId": "rugbedbugg"
+  "templateId": "rugbedbugg",
+  "profileSlug": "default"
 }
