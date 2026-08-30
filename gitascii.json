@@ -2,59 +2,186 @@
   "username": "AbhishekNiwalkar",
   "widgets": [
     {
-      "widgetId": "surveillance-header",
-      "name": "Surveillance-header Widget",
+      "widgetId": "header",
+      "name": "Header Widget",
       "position": {
-        "x": 10,
+        "x": 0,
         "y": 0
       },
       "size": {
-        "width": 780,
-        "height": 417
-      },
-      "config": {
-        "accentColor": "#00ffff",
-        "customTitle": "Surveillance Header",
-        "animationType": "scan-lines",
-        "animationPreviewKey": 8,
-        "roleTag": "DATA ENGINEER",
-        "modeTag": "198X MODE"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 1,
-      "instanceId": "widget_1788069447758_0"
-    },
-    {
-      "instanceId": "widget_1788070616555",
-      "widgetId": "divider",
-      "name": "Divider Widget",
-      "position": {
-        "x": 0,
-        "y": 417
-      },
-      "size": {
         "width": 800,
-        "height": 30
+        "height": 90
       },
       "config": {},
       "locked": false,
       "visible": true,
-      "zIndex": 6
+      "zIndex": 1,
+      "instanceId": "widget_1788071781808_0"
+    },
+    {
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
+      "position": {
+        "x": 288,
+        "y": 106
+      },
+      "size": {
+        "width": 504,
+        "height": 280
+      },
+      "config": {
+        "showContactSection": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2,
+      "instanceId": "widget_1788071781808_1"
+    },
+    {
+      "widgetId": "repositories",
+      "name": "Repositories Widget",
+      "position": {
+        "x": 16,
+        "y": 402
+      },
+      "size": {
+        "width": 368,
+        "height": 256
+      },
+      "config": {
+        "repoCardHeight": 66,
+        "repoViewMode": "list",
+        "maxRepos": 3,
+        "showRepoForks": true,
+        "showRepoUpdated": true,
+        "hideBorder": true,
+        "hideDecorations": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1788071781808_2"
+    },
+    {
+      "widgetId": "avatar",
+      "name": "Avatar Widget",
+      "position": {
+        "x": 8,
+        "y": 106
+      },
+      "size": {
+        "width": 280,
+        "height": 280
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "showTitle": false,
+        "hideDecorations": true,
+        "hideBorder": true,
+        "accentColor": "transparent"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1788071781808_3"
+    },
+    {
+      "widgetId": "footer",
+      "name": "Footer Widget",
+      "position": {
+        "x": 0,
+        "y": 698
+      },
+      "size": {
+        "width": 800,
+        "height": 50
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 5,
+      "instanceId": "widget_1788071781808_4"
+    },
+    {
+      "widgetId": "stats",
+      "name": "Stats Widget",
+      "position": {
+        "x": 392,
+        "y": 578
+      },
+      "size": {
+        "width": 392,
+        "height": 120
+      },
+      "config": {
+        "hideMetrics": [
+          "forks",
+          "gists",
+          "repos"
+        ],
+        "hideDecorations": true,
+        "hideBorder": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6,
+      "instanceId": "widget_1788071781808_5"
+    },
+    {
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": {
+        "x": 392,
+        "y": 418
+      },
+      "size": {
+        "width": 392,
+        "height": 160
+      },
+      "config": {
+        "hideDecorations": true,
+        "hideBorder": true,
+        "hideLangsArr": [],
+        "hideLangs": ""
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7,
+      "instanceId": "widget_1788071781808_6"
+    },
+    {
+      "widgetId": "custom-image",
+      "name": "Custom-image Widget",
+      "position": {
+        "x": 608,
+        "y": 5
+      },
+      "size": {
+        "width": 88,
+        "height": 80
+      },
+      "config": {
+        "hideDecorations": true,
+        "hideBorder": true,
+        "backgroundColor": "transparent"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8,
+      "instanceId": "widget_1788071781808_7"
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#050308",
+    "backgroundColor": "#060606",
     "textColor": "#e5e5e5",
-    "accentColor": "#55ffff",
-    "borderColor": "#1a1424",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
     "fontFamily": "'JetBrains Mono', monospace",
-    "borderRadius": 9,
+    "borderRadius": 0,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "rugbedbugg",
-    "transparentBackground": true
+    "templateStyle": "native_advanced"
   },
-  "templateId": "rugbedbugg",
+  "templateId": "native_advanced",
   "profileSlug": "default"
 }
