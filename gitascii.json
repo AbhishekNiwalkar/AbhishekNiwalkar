@@ -127,27 +127,6 @@
       "instanceId": "widget_1788071880477_6"
     },
     {
-      "widgetId": "custom-image",
-      "name": "Custom-image Widget",
-      "position": {
-        "x": 608,
-        "y": 5
-      },
-      "size": {
-        "width": 88,
-        "height": 80
-      },
-      "config": {
-        "hideDecorations": true,
-        "hideBorder": true,
-        "backgroundColor": "transparent"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 8,
-      "instanceId": "widget_1788071880477_7"
-    },
-    {
       "instanceId": "widget_1788071897879",
       "widgetId": "ascii-art",
       "name": "Ascii-art Widget",
