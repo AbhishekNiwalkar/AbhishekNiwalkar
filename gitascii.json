@@ -1,4 +1,5 @@
 {
+  "username": "AbhishekNiwalkar",
   "widgets": [
     {
       "widgetId": "surveillance-header",
@@ -13,72 +14,14 @@
       },
       "config": {
         "accentColor": "#00ffff",
-        "customTitle": "Surveillance Header"
+        "customTitle": "Surveillance Header",
+        "animationType": "scan-lines",
+        "animationPreviewKey": 8
       },
       "locked": false,
       "visible": true,
       "zIndex": 1,
       "instanceId": "widget_1788069447758_0"
-    },
-    {
-      "widgetId": "surveillance-telemetry",
-      "name": "Surveillance-telemetry Widget",
-      "position": {
-        "x": 10,
-        "y": 417
-      },
-      "size": {
-        "width": 780,
-        "height": 420
-      },
-      "config": {
-        "accentColor": "#55ffff",
-        "customTitle": "Terminal Telemetry"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 2,
-      "instanceId": "widget_1788069447758_1"
-    },
-    {
-      "widgetId": "surveillance-feeds",
-      "name": "Surveillance-feeds Widget",
-      "position": {
-        "x": 10,
-        "y": 845
-      },
-      "size": {
-        "width": 780,
-        "height": 190
-      },
-      "config": {
-        "accentColor": "#55ffff",
-        "customTitle": "Surveillance Social Feeds"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 3,
-      "instanceId": "widget_1788069447758_2"
-    },
-    {
-      "widgetId": "surveillance-loadout",
-      "name": "Surveillance-loadout Widget",
-      "position": {
-        "x": 10,
-        "y": 1051
-      },
-      "size": {
-        "width": 780,
-        "height": 200
-      },
-      "config": {
-        "accentColor": "#55ffff",
-        "customTitle": "Daily Loadout"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 4,
-      "instanceId": "widget_1788069447758_3"
     }
   ],
   "globalStyles": {
@@ -92,5 +35,6 @@
     "themeMode": "dark",
     "templateStyle": "rugbedbugg"
   },
-  "templateId": "rugbedbugg"
+  "templateId": "rugbedbugg",
+  "profileSlug": "default"
 }
